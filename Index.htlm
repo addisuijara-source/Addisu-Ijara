@@ -1,0 +1,93 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Addis Import and Export Consultancy Service</title>
+<style>
+body{
+    font-family: Arial, sans-serif;
+    margin:0;
+    padding:0;
+    line-height:1.6;
+}
+header{
+    background:#003366;
+    color:white;
+    text-align:center;
+    padding:40px;
+}
+nav{
+    background:#00509e;
+    padding:10px;
+    text-align:center;
+}
+nav a{
+    color:white;
+    text-decoration:none;
+    margin:0 15px;
+}
+section{
+    padding:30px;
+}
+.services{
+    background:#f4f4f4;
+}
+footer{
+    background:#003366;
+    color:white;
+    text-align:center;
+    padding:15px;
+}
+</style>
+</head>
+<body>
+
+<header>
+    <h1>Addis Import and Export Consultancy Service</h1>
+    <p>Your Trusted Partner in International Trade</p>
+</header>
+
+<nav>
+    <a href="#about">About Us</a>
+    <a href="#services">Services</a>
+    <a href="#contact">Contact</a>
+</nav>
+
+<section id="about">
+    <h2>About Us</h2>
+    <p>
+        Addis Import and Export Consultancy Service provides professional
+        consultancy services in international trade, import and export
+        procedures, market linkage, documentation support, customs guidance,
+        and business development.
+    </p>
+</section>
+
+<section id="services" class="services">
+    <h2>Our Services</h2>
+    <ul>
+        <li>Import Consultancy</li>
+        <li>Export Consultancy</li>
+        <li>Trade Documentation Support</li>
+        <li>Customs Clearance Guidance</li>
+        <li>Market Research and Linkage</li>
+        <li>Business Plan Preparation</li>
+        <li>Coffee Export Advisory</li>
+        <li>Logistics and Supply Chain Consultancy</li>
+    </ul>
+</section>
+
+<section id="contact">
+    <h2>Contact Us</h2>
+    <p>Email: info@addisimportexport.com</p>
+    <p>Phone: +251 XXX XXX XXX</p>
+    <p>Address: Addis Ababa, Ethiopia</p>
+</section>
+
+<footer>
+    <p>&copy; 2026 Addis Import and Export Consultancy Service. All Rights Reserved.</p>
+</footer>
+
+</body>
+</html>
